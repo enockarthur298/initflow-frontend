@@ -52,7 +52,7 @@ export const siteConfig = {
   name: 'InitFlow',
   description: 'The AI Software Builder for Every Idea.',
   cta: 'Get Started',
-  url: process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000',
+  url: process.env.NEXT_PUBLIC_APP_URL || 'https://initflow-frontend.vercel.app/',
   keywords: ['AI Agent', 'Generalist AI', 'AI app builder', 'Autonomous Agent'],
   links: {
     email: 'initflowinfo@gmail.com',

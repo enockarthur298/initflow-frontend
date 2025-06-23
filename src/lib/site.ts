@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: 'InitFlow',
-  url: 'https://suna.so/',
+  url: 'https://initflow-frontend.vercel.app/',
   description: 'Kortix AI',
   links: {
     twitter: 'https://x.com/kortixai',
