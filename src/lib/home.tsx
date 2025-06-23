@@ -50,12 +50,12 @@ export interface PricingTier {
 
 export const siteConfig = {
   name: 'InitFlow',
-  description: 'The Generalist AI Agent that can act on your behalf.',
-  cta: 'Start Free',
+  description: 'The AI Software Builder for Every Idea.',
+  cta: 'Get Started',
   url: process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000',
-  keywords: ['AI Agent', 'Generalist AI', 'Open Source AI', 'Autonomous Agent'],
+  keywords: ['AI Agent', 'Generalist AI', 'AI app builder', 'Autonomous Agent'],
   links: {
-    email: 'support@kortix.ai',
+    email: 'initflowinfo@gmail.com',
     twitter: 'https://x.com/kortixai',
     discord: 'https://discord.gg/kortixai',
     github: 'https://github.com/Kortix-ai/Suna',
