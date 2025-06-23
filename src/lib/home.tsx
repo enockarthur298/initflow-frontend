@@ -98,7 +98,7 @@ export const siteConfig = {
     ),
     badge: '100% OPEN SOURCE',
     githubUrl: 'https://github.com/kortix-ai/suna',
-    title: 'Suna, the AI Employee.',
+    title: 'InitFlow, the AI Software Builder.',
     description:
       'InitFlow: The AI Software Builder for Every Idea.',
     inputPlaceholder: 'Ask InitFlow to build...',
