@@ -9,6 +9,8 @@ import { OpenSourceSection } from '@/components/home/sections/open-source-sectio
 import { PricingSection } from '@/components/home/sections/pricing-section';
 import { UseCasesSection } from '@/components/home/sections/use-cases-section';
 import { ModalProviders } from '@/providers/modal-providers';
+import { FeatureSection } from '@/components/home/sections/feature-section';
+import { FAQSection } from '@/components/home/sections/faq-section';
 
 export default function Home() {
   return (
@@ -21,12 +23,12 @@ export default function Home() {
           {/* <CompanyShowcase /> */}
           {/* <BentoSection /> */}
           {/* <QuoteSection /> */}
-          {/* <FeatureSection /> */}
+           <FeatureSection />
           {/* <GrowthSection /> */}
           <OpenSourceSection />
-          <PricingSection />
+          {/*<PricingSection />*/}
           {/* <TestimonialSection /> */}
-          {/* <FAQSection /> */}
+           <FAQSection/>
           <CTASection />
           <FooterSection />
         </div>
