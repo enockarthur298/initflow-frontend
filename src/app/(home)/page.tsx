@@ -26,7 +26,7 @@ export default function Home() {
            <FeatureSection />
           {/* <GrowthSection /> */}
           {/*<OpenSourceSection />*/}
-          {/*<PricingSection />*/}
+          *<PricingSection />
           {/* <TestimonialSection /> */}
            <FAQSection/>
           <CTASection />
